@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "tagline": "Il Flixbus delle merci"
+  },
+  "nav": {
+    "landing": "Home",
+    "pianifica": "Pianifica la tratta",
+    "monitora": "La tua spedizione",
+    "monitor": "Rete dal vivo",
+    "docs": "Aiuto"
+  },
+  "common": {
+    "start": "Avvia",
+    "pause": "Pausa",
+    "reset": "Ricomincia",
+    "speed": "Velocità",
+    "truck": "Camion",
+    "intermodal": "Intermodale",
+    "learnMore": "Scopri di più",
+    "currency": "€"
+  },
+  "landing": {
+    "heroKicker": "Trasporto merci condiviso, in tutta Italia",
+    "heroTitle": "Un camion condiviso. Tutti pagano meno.",
+    "heroSub": "Gbawia è una piattaforma digitale che permette di risparmiare sul trasporti merci pagando solo lo spazio utilizzato dalla propria merce. I clienti consegnano i pacchi in un magazzino comune e la spedizione parte a pieno carico, condividendo i costi del viaggio — così le piccole spedizioni viaggiano come le grandi aziende.",
+    "ctaPlan": "Pianifica la tua tratta",
+    "ctaWatch": "Guarda la rete dal vivo",
+    "processTitle": "Come viaggia una spedizione",
+    "processIntro": "Il camion parte solo quando è pieno in modo conveniente — mai prima, ma sempre entro il tempo garantito.",
+    "steps": [
+      {
+        "title": "Consegna",
+        "body": "Porta la merce al magazzino Gbawia più vicino, oppure la ritiriamo noi a casa tua."
+      },
+      {
+        "title": "Condividiamo lo spazio",
+        "body": "Ogni spedizione condivide lo spazio con altre merci dirette nella stessa direzione: il mezzo non viaggia mai mezzo vuoto."
+      },
+      {
+        "title": "Pieno finché conviene",
+        "body": "Il camion parte quando è abbastanza pieno da essere conveniente. Mai prima — e mai oltre la data promessa."
+      },
+      {
+        "title": "Si muove",
+        "body": "Da magazzino a magazzino, su una rete programmata. Come un autobus, ma per le merci."
+      },
+      {
+        "title": "Ritiri",
+        "body": "Ritirala in magazzino, oppure ricevila direttamente a casa tua."
+      }
+    ],
+    "casesTitle": "Pensato per chi deve spostare cose",
+    "cases": [
+      {
+        "title": "Spedisci una scatola",
+        "body": "Vendi una bici, invii un regalo, restituisci un prodotto. Una scatola viaggia nello spazio condiviso, senza pagare un furgone intero."
+      },
+      {
+        "title": "Trasloco e mobili",
+        "body": "Un divano, qualche scatola, un intero appartamento. Lo ritiriamo, lo teniamo in magazzino e lo consegniamo al tuo nuovo indirizzo quando conviene."
+      },
+      {
+        "title": "Spedisci come una fabbrica",
+        "body": "Fino ad attrezzature di lavoro, bancali per piccole imprese e prodotti ingombranti."
+      }
+    ],
+    "about": {
+      "title": "Costruita come una rete di autobus, per le merci",
+      "lead": "Gbawia gestisce magazzini e camion condivisi in tutta Italia. Piccole e medie imprese — e chiunque debba spedire una scatola — pagano solo lo spazio che occupano le loro merci, e il camion non parte mai mezzo vuoto.",
+      "points": [
+        {
+          "title": "Paghi lo spazio, non l'aria",
+          "body": "Deposito e trasporto costano in base a quanto occupano davvero le tue merci."
+        },
+        {
+          "title": "Pieno prima di partire",
+          "body": "Il camion parte solo quando è pieno in modo conveniente, sempre entro il tempo massimo garantito. Meno viaggi, costi più bassi, meno strada sprecata."
+        },
+        {
+          "title": "Porta a porta, se vuoi",
+          "body": "Porta tu la merce in magazzino, oppure aggiungi ritiro e consegna al tuo indirizzo. Il primo e l'ultimo miglio li gestiamo noi."
+        }
+      ]
+    }
+  },
+  "pianifica": {
+    "title": "Pianifica la tua tratta",
+    "intro": "Dicci cosa spedisci e dove deve arrivare. Calcoliamo il prezzo e la data garantita.",
+    "from": "Da",
+    "to": "A",
+    "fromPlaceholder": "Scegli un capoluogo di regione",
+    "deliveryDate": "Data di consegna",
+    "shipmentTitle": "La tua merce",
+    "fragile": "Fragile",
+    "boxWidth": "Larghezza (cm)",
+    "boxHeight": "Altezza (cm)",
+    "boxDepth": "Profondità (cm)",
+    "boxWeight": "Peso (kg)",
+    "boxCount": "Numero di colli",
+    "pickupTitle": "Ritiro",
+    "pickupWarehouse": "Al magazzino",
+    "pickupAddress": "Dal tuo indirizzo",
+    "deliveryTitle": "Consegna",
+    "deliveryWarehouse": "Al magazzino",
+    "deliveryAddress": "Al tuo indirizzo",
+    "addressPlaceholder": "Via, numero, città",
+    "calculate": "Spedisci",
+    "resultTitle": "La tua spedizione",
+    "guaranteed": "Garantita entro",
+    "expected": "Prevista",
+    "price": "Prezzo",
+    "breakdownTitle": "Come si compone il prezzo",
+    "breakdownBase": "Spazio condiviso",
+    "breakdownPickup": "Ritiro a domicilio",
+    "breakdownDelivery": "Consegna a domicilio",
+    "breakdownFragile": "Gestione fragile",
+    "viewMap": "Guardala sulla mappa",
+    "edit": "Modifica i dettagli",
+    "boxDims": "{count} colli · {w}×{h}×{d} cm · {weight} kg"
+  },
+  "monitora": {
+    "title": "La tua spedizione",
+    "empty": "Non hai ancora pianificato nulla.",
+    "emptyBody": "Pianifica una tratta e segui qui dove si trova il tuo pacco.",
+    "emptyCta": "Pianifica una tratta",
+    "from": "Da",
+    "to": "A",
+    "guaranteed": "Garantita entro",
+    "expected": "Prevista",
+    "price": "Prezzo",
+    "legendTruck": "La tua spedizione",
+    "legendWarehouse": "Magazzino",
+    "firstMile": "Tratta di ritiro",
+    "lastMile": "Tratta di consegna",
+    "whereNow": "Ove si trova ora il pacco",
+    "inTransit": "In transito",
+    "currentCity": "Fermata attuale"
+  },
+  "monitor": {
+    "title": "Rete dal vivo",
+    "intro": "La rete esegue un piano di movimenti: i camion partono dai magazzini, depositano e ritirano merce, e i prodotti attendono nei nodi intermedi prima di continuare su un altro mezzo.",
+    "warehouses": "Magazzini",
+    "warehousesEmpty": "Nessuna merce nei magazzini, per ora.",
+    "shipments": "Spedizioni",
+    "shipmentsEmpty": "Nessuna spedizione tracciata.",
+    "statusWaiting": "in attesa",
+    "statusMoving": "in transito",
+    "statusDone": "consegnata",
+    "events": "Eventi",
+    "eventsEmpty": "Nessun evento recente…",
+    "eventDepart": "Partenza",
+    "eventArrive": "Arrivo",
+    "warehouse": "In attesa in magazzino",
+    "warehouseEmpty": "Il magazzino è vuoto, per ora.",
+    "orders": "Ordini in arrivo",
+    "ordersEmpty": "In attesa di nuovi ordini…",
+    "legend": "Legenda",
+    "legendTruck": "Mezzo in transito",
+    "legendStock": "Merce in magazzino",
+    "legendFull": "Alla soglia — pronto a partire",
+    "legendFilling": "In carico",
+    "legendTransit": "In transito",
+    "legendSea": "Via mare",
+    "legendWait": "In attesa di carico",
+    "fullness": "riempimento",
+    "futureNotice": "Intermodale: Cagliari e Palermo si collegano via nave."
+  },
+  "docs": {
+    "title": "Centro assistenza",
+    "intro": "Chiedi qualsiasi cosa su come funziona Gbawia: i prezzi, la rete, o come il camion decide quando partire.",
+    "placeholder": "Fai una domanda…",
+    "send": "Invia",
+    "fallbackAsk": "Posso risponderti su Gbawia. Chiedimi dei prezzi, della rete condivisa o delle date di consegna.",
+    "noKey": "Per rispondere dal vivo serve una chiave API. Nel frattempo: Gbawia riempie ogni camion fino alla capacità prima di partire, e tu paghi solo lo spazio che occupano le tue merci. Prova a chiedere dei prezzi o delle date garantite, oppure pianifica una tratta per vedere un prezzo reale.",
+    "sourceNote": "Le risposte si basano sulla nostra guida operativa."
+  },
+  "footer": {
+    "blurb": "Rete di trasporto merci condiviso. Paghi lo spazio che occupano le tue merci, mai l'aria che le circonda.",
+    "product": "Prodotto",
+    "explore": "Scopri",
+    "process": "Come funziona",
+    "cases": "Casi d'uso",
+    "about": "Chi siamo",
+    "rights": "Gbawia — spazio condiviso, costo condiviso."
+  }
+}

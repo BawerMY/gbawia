@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "tagline": "The Flixbus of freight"
+  },
+  "nav": {
+    "landing": "Home",
+    "pianifica": "Plan a route",
+    "monitora": "Your shipment",
+    "monitor": "Live network",
+    "docs": "Help"
+  },
+  "common": {
+    "start": "Start",
+    "pause": "Pause",
+    "reset": "Reset",
+    "speed": "Speed",
+    "truck": "Truck",
+    "intermodal": "Intermodal",
+    "learnMore": "Learn more",
+    "currency": "€"
+  },
+  "landing": {
+    "heroKicker": "Shared freight, across Italy",
+    "heroTitle": "One shared truck. Everyone pays less.",
+    "heroSub": "Gbawia is a digital platform that allows you to save on freight costs by paying only for the space your goods actually occupy. Customers drop off their packages at a shared warehouse, and shipments depart fully loaded with costs shared among users — enabling small shipments to travel just like those of large companies.",
+    "ctaPlan": "Plan your route",
+    "ctaWatch": "See the live network",
+    "processTitle": "How a shipment moves",
+    "processIntro": "A truck leaves only when it's economically full — never before, and always within the guaranteed time.",
+    "steps": [
+      {
+        "title": "Drop off",
+        "body": "Bring your goods to the nearest Gbawia depot, or we collect them from your door."
+      },
+      {
+        "title": "We share the space",
+        "body": "Every shipment shares a box with others heading the same way — the space is never half empty."
+      },
+      {
+        "title": "Fill until it pays",
+        "body": "A truck departs when it's full enough to be convenient. Never before — and never later than promised."
+      },
+      {
+        "title": "It moves",
+        "body": "Depot to depot, on a scheduled network. Like a bus, but for goods."
+      },
+      {
+        "title": "Collect",
+        "body": "Pick it up from the depot, or have it delivered to your door."
+      }
+    ],
+    "casesTitle": "Made for the people who move things",
+    "cases": [
+      {
+        "title": "Send a single box",
+        "body": "Selling a bike, sending a gift, returning an item. One box rides in shared space, without paying for a whole van."
+      },
+      {
+        "title": "Moving home",
+        "body": "A sofa, a few boxes, a whole flat. We collect it, hold it in the depot, and deliver it to your new address on your date."
+      },
+      {
+        "title": "Ship like a factory",
+        "body": "From work equipment to small business pallets and bulky products."
+      }
+    ],
+    "about": {
+      "title": "Built like a bus network, for goods",
+      "lead": "Gbawia runs shared warehouses and shared trucks across Italy. Small and medium businesses — and anyone sending a box — pay only for the space their goods occupy, and the truck never leaves half empty.",
+      "points": [
+        {
+          "title": "You pay for space, not air",
+          "body": "Storage and transport are priced on what your goods actually occupy."
+        },
+        {
+          "title": "Full before it leaves",
+          "body": "A truck departs only when it is economically full, always within the maximum guaranteed time. Fewer trips, lower cost, less wasted road."
+        },
+        {
+          "title": "Door to door, if you want it",
+          "body": "Drop goods at the depot yourself, or add pickup and delivery to your address. The first and last mile stay with us."
+        }
+      ]
+    }
+  },
+  "pianifica": {
+    "title": "Plan your route",
+    "intro": "Tell us what you're sending and where it's going. We'll work out the price and the guaranteed date.",
+    "from": "From",
+    "to": "To",
+    "fromPlaceholder": "Select a region capital",
+    "deliveryDate": "Delivery date",
+    "shipmentTitle": "Your goods",
+    "fragile": "Fragile",
+    "boxWidth": "Width (cm)",
+    "boxHeight": "Height (cm)",
+    "boxDepth": "Depth (cm)",
+    "boxWeight": "Weight (kg)",
+    "boxCount": "Number of boxes",
+    "pickupTitle": "Pickup",
+    "pickupWarehouse": "At the depot",
+    "pickupAddress": "From your address",
+    "deliveryTitle": "Delivery",
+    "deliveryWarehouse": "At the depot",
+    "deliveryAddress": "To your address",
+    "addressPlaceholder": "Street, number, city",
+    "calculate": "Ship",
+    "resultTitle": "Your shipment",
+    "guaranteed": "Guaranteed by",
+    "expected": "Expected",
+    "price": "Price",
+    "breakdownTitle": "How it's priced",
+    "breakdownBase": "Shared space",
+    "breakdownPickup": "Pickup at address",
+    "breakdownDelivery": "Delivery to address",
+    "breakdownFragile": "Fragile handling",
+    "viewMap": "See it on the map",
+    "edit": "Change details",
+    "boxDims": "{count} boxes · {w}×{h}×{d} cm · {weight} kg"
+  },
+  "monitora": {
+    "title": "Your shipment",
+    "empty": "You haven't planned anything yet.",
+    "emptyBody": "Plan a route and track where your packet is here.",
+    "emptyCta": "Plan a route",
+    "from": "From",
+    "to": "To",
+    "guaranteed": "Guaranteed by",
+    "expected": "Expected",
+    "price": "Price",
+    "legendTruck": "Your shipment",
+    "legendWarehouse": "Warehouse",
+    "firstMile": "Pickup leg",
+    "lastMile": "Delivery leg",
+    "whereNow": "Where your packet is now",
+    "inTransit": "In transit",
+    "currentCity": "Current stop"
+  },
+  "monitor": {
+    "title": "Live network",
+    "intro": "The network executes a movement plan: vehicles leave warehouses, drop off and pick up goods, and products wait at intermediate nodes before continuing on another vehicle.",
+    "warehouses": "Warehouses",
+    "warehousesEmpty": "No goods in the warehouses for now.",
+    "shipments": "Shipments",
+    "shipmentsEmpty": "No tracked shipments.",
+    "statusWaiting": "waiting",
+    "statusMoving": "in transit",
+    "statusDone": "delivered",
+    "events": "Events",
+    "eventsEmpty": "No recent events…",
+    "eventDepart": "Departure",
+    "eventArrive": "Arrival",
+    "warehouse": "Waiting in the warehouse",
+    "warehouseEmpty": "The warehouse is empty for now.",
+    "orders": "Incoming orders",
+    "ordersEmpty": "Waiting for new orders…",
+    "legend": "Legend",
+    "legendTruck": "Vehicle in transit",
+    "legendStock": "Goods in warehouse",
+    "legendFull": "At the threshold — ready to leave",
+    "legendFilling": "Filling",
+    "legendTransit": "In transit",
+    "legendSea": "By sea",
+    "legendWait": "Waiting to be loaded",
+    "fullness": "fill",
+    "futureNotice": "Intermodal: Cagliari and Palermo join by ship."
+  },
+  "docs": {
+    "title": "Help center",
+    "intro": "Ask anything about how Gbawia works — pricing, the network, or how the truck decides when to leave.",
+    "placeholder": "Ask a question…",
+    "send": "Send",
+    "fallbackAsk": "I can answer questions about Gbawia. Ask me about pricing, the shared network, or delivery dates.",
+    "noKey": "Live answers need an API key. Meanwhile: Gbawia fills every truck to capacity before it leaves, and you pay only for the space your goods occupy. Try asking about pricing or guaranteed dates, or plan a route to see a real price.",
+    "sourceNote": "Answers are grounded in our operating guide."
+  },
+  "footer": {
+    "blurb": "Shared freight network. Pay for the space your goods occupy, never for the air around them.",
+    "product": "Product",
+    "explore": "Discover",
+    "process": "How it works",
+    "cases": "Use cases",
+    "about": "About",
+    "rights": "Gbawia — shared space, shared cost."
+  }
+}
