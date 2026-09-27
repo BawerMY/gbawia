@@ -31,6 +31,8 @@ export function Footer() {
           <Logo />
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-ink-soft">
             {t("footer.blurb")}
+            <br />
+            <p className="font-semibold mt-8 text-lg">{t("footer.author")}</p>
           </p>
         </div>
 
