@@ -114,7 +114,7 @@
     "breakdownPickup": "Ritiro a domicilio",
     "breakdownDelivery": "Consegna a domicilio",
     "breakdownFragile": "Gestione fragile",
-    "viewMap": "Guardala sulla mappa",
+    "viewMap": "Visualizza spedizione",
     "edit": "Modifica i dettagli",
     "boxDims": "{count} colli · {w}×{h}×{d} cm · {weight} kg"
   },

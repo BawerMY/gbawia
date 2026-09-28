@@ -114,7 +114,7 @@
     "breakdownPickup": "Pickup at address",
     "breakdownDelivery": "Delivery to address",
     "breakdownFragile": "Fragile handling",
-    "viewMap": "See it on the map",
+    "viewMap": "See shipment",
     "edit": "Change details",
     "boxDims": "{count} boxes · {w}×{h}×{d} cm · {weight} kg"
   },
